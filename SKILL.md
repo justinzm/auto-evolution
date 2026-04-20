@@ -1,5 +1,5 @@
 ---
-name: auto-evolution
+name: zeelin-auto-evolution
 description: Build and maintain a self-evolving skill system that silently captures feedback, graduates repeated feedback into formal rules, improves low-performing skills, and proposes new skills when repeated patterns are not covered. Use when users mention auto evolution, feedback capture, rule graduation, skill optimization, evolution proposals, "that's not right", "you forgot again", "not like this", 自动进化, 反馈沉淀, 规则毕业, Skill 优化, or 新 Skill 提议.
 allowed-tools: Read, Write, Bash, Grep, Glob
 ---

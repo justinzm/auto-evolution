@@ -1,11 +1,11 @@
-# Auto Evolution
+# Zeelin Auto Evolution
 
 Version: `0.1.0`
 
 English | [简体中文](README.zh-CN.md)
 
 ## Overview
-Auto Evolution adds a safe, self-improving feedback loop to an agent system. It silently captures corrective user feedback, turns repeated issues into rule proposals, suggests improvements for low-performing skills, and proposes new skills when repeated workflows are not covered. It is intentionally conservative: it can observe automatically, but it must ask for confirmation before changing rules or skills.
+Zeelin Auto Evolution adds a safe, self-improving feedback loop to an agent system. It silently captures corrective user feedback, turns repeated issues into rule proposals, suggests improvements for low-performing skills, and proposes new skills when repeated workflows are not covered. It is intentionally conservative: it can observe automatically, but it must ask for confirmation before changing rules or skills.
 
 ## What It Does
 - Silently captures corrective feedback from user conversations
